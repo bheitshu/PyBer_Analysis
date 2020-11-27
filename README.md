@@ -1,4 +1,4 @@
-# PyBer_Analysis
+# PyBer_Analysis_Challenge
 Module 5
 ## Overview of the analysis: Explain the purpose of the new analysis.
 Provided with ride sharing data by city type we were asked to create a multiple-line graph to help us visualize fares based on the city type. The purpose of this analysis is to compare fares by $USD to city types such as Rural, Suburban or Urban throughout total weekly fares from January 1, 2019 to April 28, 2019.
@@ -6,6 +6,8 @@ Provided with ride sharing data by city type we were asked to create a multiple-
 ## Results: Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
 As you can see from looking at the “Total fare by City Type” Rural cities have the lowest total fare per week throughout the date ranges of January 1, 2019 to April 28, 2019 peaking at 500USD on April 1st. Suburban is the red line which sits almost in the middle of rural and urban. All city types peak the third week in February. Urban has the highest total fare with a max at 2500USD.
 When looking at data we notice Urban areas have the greatest number of total drivers and rural areas have the least number of drivers. With there being a lower number of drivers in Rural areas the average fare per driver makes the most USD out of all areas. 
+
+
 
 But when adding in total fares for each city type per week with the time frame of January 1, 2019 to April 28, 2019, Urban has the greatest total fares. Overall, the individuals are making more in rural areas because of low supply of drivers and urban drivers are making less per trip because of the saturation of drivers within the Urban areas. 
 

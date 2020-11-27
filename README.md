@@ -1,7 +1,7 @@
 # PyBer_Analysis_Challenge
-Module 5
+
 ## Overview of the analysis: Explain the purpose of the new analysis.
-Provided with ride sharing data by city type we were asked to create a multiple-line graph to help us visualize fares based on the city type. The purpose of this analysis is to compare fares by $USD to city types such as Rural, Suburban or Urban throughout total weekly fares from January 1, 2019 to April 28, 2019.
+Provided with ride sharing data by city type we were asked to create a multiple-line graph to help us visualize fares based on the city type. The purpose of this analysis is to compare fares by USD to city types such as Rural, Suburban or Urban throughout total weekly fares from January 1, 2019 to April 28, 2019 and see how improvements can be made to each area to maximize benefits for both the company and drivers.
 
 ## Results: Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
 
